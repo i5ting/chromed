@@ -1,6 +1,6 @@
 {
   "name": "chromed",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,9 +12,7 @@
   "preferGlobal": "true",
   "bin": {
     "chromed": "index.js",
-    "cdws": "index.js",
-    "dc": "index.js",
-    "dch": "index.js"
+    "chrome": "c.js"
   },
   "repository": {
     "type": "git",
